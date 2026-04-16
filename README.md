@@ -1,11 +1,14 @@
 # QQ 经典农场机器人（视觉自动化版）
 
-基于 OpenCV 的模板匹配自动化项目，统一采用**多模板 + 多尺度匹配**，全面适配任何窗口大小(横版暂不支持)，一个字”稳“，沉浸式偷菜，让你成为农场大佬！
+基于 OpenCV 的模板匹配自动化项目，统一采用**多模板 + 多尺度匹配**，全面适配任何窗口大小(横版暂不支持)，一个字”稳“！
+
+沉浸式偷菜，让你成为农场大佬！
 
 如果觉得这个项目 对你有帮助，欢迎⭐ Star 项目。
 
 > 说明：项目为个人学习使用，不提供任何商业用途。目前暂不开放源代码，防止黄牛利用。
 
+> 下载链接：[https://github.com/hacker-frok/qq-farm-bot-ai/releases/latest](https://github.com/hacker-frok/qq-farm-bot-ai/releases/latest)
 ## 使用提示
 
 - 本软件完全免费，若付费购买请立即退款。
@@ -13,7 +16,7 @@
 - 项目地址：[qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai)
 - 交流群：[Telegram](https://t.me/qq_farm_bot_ai)（欢迎加入讨论与反馈）
 
-## 已实现功能
+## 功能
 
 - [x] 支持QQ/微信平台
 - [x] 支持隐藏小程序窗口，沉浸式偷菜

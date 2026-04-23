@@ -14,7 +14,8 @@
 - 本软件完全免费，若付费购买请立即退款。
 - 请认准项目主页获取版本与说明，谨防二次售卖、捆绑分发与虚假收费。
 - 项目地址：[qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai)
-- 交流群：[Telegram](https://t.me/qq_farm_bot_ai)（欢迎加入讨论与反馈）
+- QQ群：1077694137 (网友提供)
+- TG群：[Telegram](https://t.me/qq_farm_bot_ai)（欢迎加入讨论与反馈）
 
 ## 功能
 

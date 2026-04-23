@@ -14,7 +14,7 @@
 - 本软件完全免费，若付费购买请立即退款。
 - 请认准项目主页获取版本与说明，谨防二次售卖、捆绑分发与虚假收费。
 - 项目地址：[qq-farm-bot-ai](https://github.com/hacker-frok/qq-farm-bot-ai)
-- QQ群：1077694137 (网友提供) <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="QQ经典农场沉浸式偷菜" title="QQ经典农场沉浸式偷菜"></a>
+- QQ群：[1077694137](https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO) (网友提供) <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO"><img border="0" height="20px" vertical-align="middle" src="https://pub.idqqimg.com/wpa/images/group.png" alt="QQ经典农场沉浸式偷菜" title="QQ经典农场沉浸式偷菜"></a>
 - TG群：[Telegram](https://t.me/qq_farm_bot_ai)（欢迎加入讨论与反馈）
 
 ## 功能

@@ -1,0 +1,32 @@
+name: 使用问题
+description: 关于安装、配置、使用方式等问题
+title: "【使用问题】："
+labels: ["question"]
+assignees: []
+
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: 你的问题
+      description: 请描述你在使用过程中遇到的疑问。
+      placeholder: "例如：如何修改配置文件路径？"
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: 你已经尝试过的方法
+      description: 请说明你已经尝试过哪些操作。
+      placeholder: "例如：我已经查看 README，但没有找到相关说明。"
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 运行环境
+      description: 请填写系统、软件版本等信息。
+      placeholder: |
+        - 系统：
+        - 软件版本：
+        - 其他：

@@ -93,8 +93,8 @@
 
 > 下载链接：[https://github.com/hacker-frok/qq-farm-bot-ai/releases/latest](https://github.com/hacker-frok/qq-farm-bot-ai/releases/latest)
 
-1. 打开上方链接，下载最新的：`qq-farm-bot-ai_<tag>_x64_setup.exe`
-2. 运行 `qq-farm-bot-ai_<tag>_x64_setup.exe` 进行安装。
+1. 打开上方链接，下载最新的：`QQFarmCVHelper_<tag>_x64_setup.exe`
+2. 运行 `QQFarmCVHelper_<tag>_x64_setup.exe` 进行安装。
 3. 安装后会在桌面创建一个快捷方式图标<img src="./images/icon.png" alt="快捷方式图标" width="18px">（可能被安全软件拦截，请放行）
 4. 打开桌面快捷方式图标，点击“开始运行”。
 

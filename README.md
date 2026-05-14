@@ -1,5 +1,10 @@
 # QQ经典农场辅助（视觉自动化版）
 
+[![GitHub release](https://img.shields.io/github/v/release/hacker-frok/qq-farm-bot-ai?logo=github)](https://github.com/hacker-frok/qq-farm-bot-ai/releases)
+[![Follow on QQ](https://img.shields.io/badge/QQ%E7%BE%A4-1077694137-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO)
+[![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/qq_farm_bot_ai)
+
+
 基于 OpenCV 的模板匹配自动化项目，统一采用**多模板 + 多尺度匹配**，全面匹配各功能流程！
 
 沉浸式偷菜，让你成为农场大佬！

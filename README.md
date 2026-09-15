@@ -3,6 +3,7 @@
 
 [![GitHub release](https://img.shields.io/github/v/release/hacker-frok/qq-farm-bot-ai?logo=github)](https://github.com/hacker-frok/qq-farm-bot-ai/releases)
 [![Follow on QQ](https://img.shields.io/badge/QQ%E7%BE%A4-1077694137-blue)](https://qm.qq.com/cgi-bin/qm/qr?k=t23cMADw5uHeEnLI-ZQ9InQJj8oPsfS9&jump_from=webapi&authKey=hJCDe2nh7Z69j3MJVfEQORzZFRkM0sQdPYAqBDsGqKuRbRCMJt8eMMLbtS+BD1bO)
+[![Follow on QQ](https://img.shields.io/badge/QQ%E7%BE%A4-1058844046-green)]()
 [![Follow on Telegram](https://img.shields.io/badge/Follow-Telegram-blue?logo=telegram)](https://t.me/qq_farm_bot_ai)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hacker-frok-qq-farm-bot-ai)
 
